@@ -195,7 +195,7 @@ latex_documents = [('index', 'git-note.tex', u'git-note Documentation', u'yejq',
 
 # A dictionary that contains LaTeX snippets that override those Sphinx usually 
 # puts into the generated .tex files.
-${latex_elements}
+#${latex_elements}
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
